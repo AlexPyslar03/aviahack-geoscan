@@ -10,13 +10,13 @@
 
 ### Установка библиотек:
 ```
-pip install numpy
-pip install matplotlib
-pip install skimage
-pip install scipy
+$ pip install numpy
+$ pip install matplotlib
+$ pip install skimage
+$ pip install scipy
 ```
 
 ### В деректории исходного кода должно находиться изображение фотоснимка 'trees.tif'
 
 ### Запуск исполняемого файла
-`python main.py`
+`$ python main.py`
