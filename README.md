@@ -5,8 +5,9 @@
 - Вожегов Артём
 
 ### Ссылки
-####[Ссылка на файл Google Colab](https://colab.research.google.com/drive/1Ql3aXPL3HMZ-gmc2XrpTDjH0PIuUJciA?usp=sharing)
-####[Ссылка на документацию](https://docs.google.com/document/d/1a7BcGYkHp20vw8EHurJTVq5x0YaVvvJw_vHF93Y64YE/edit?usp=sharing)
+[Ссылка на файл Google Colab](https://colab.research.google.com/drive/1Ql3aXPL3HMZ-gmc2XrpTDjH0PIuUJciA?usp=sharing)
+[Ссылка на документацию](https://docs.google.com/document/d/1a7BcGYkHp20vw8EHurJTVq5x0YaVvvJw_vHF93Y64YE/edit?usp=sharing)
+[Ссылка на диск с исходными данными](https://disk.yandex.ru/d/2A8bfNCb4gFfyQ)
 
 ## Инструкция к запуску:
 
@@ -21,7 +22,7 @@ $ pip install skimage
 $ pip install scipy
 ```
 
-### В деректории исходного кода должно находиться изображение аэрофотоснимка с самолёта 'trees.tif'
+### В деректории исходного кода должно находиться исходное изображение полигона в формате tif и названием trees: "trees.tif"
 
 ### Запуск исполняемого файла
 `$ python main.py`
