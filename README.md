@@ -9,3 +9,6 @@ pip install matplotlib
 pip install skimage
 pip install scipy
 ```
+### В деректории исходного кода должно находиться изображение фотоснимка 'trees.tif'
+### Запуск исполняемого файла
+`python main.py`
