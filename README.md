@@ -3,7 +3,9 @@
 
 ## Инструкция к запуску:
 ### Установка библиотек:
-`pip install numpy
+```
+pip install numpy
 pip install matplotlib
 pip install skimage
-pip install scipy`
+pip install scipy
+```
